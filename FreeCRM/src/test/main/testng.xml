@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Freecrm application test" verbose="1" >
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="st.testcases.Homepagetestcases"/>
+      <class name="st.testcases.LoginPageTestcases"/>
+       <class name="st.testcases.Signuptestcases"/>
+      
+    </classes>
+ </test>
+</suite>
